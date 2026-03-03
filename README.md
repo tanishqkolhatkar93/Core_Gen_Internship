@@ -102,7 +102,7 @@ Bot: Tanishq, Consistency beats motivation. I hope things get better!
 Place your screenshot inside a folder named `/screenshots` and add:
 
 
-![Chatbot](screenshots/chatbot_result.png)
+![Chatbot](https://github.com/tanishqkolhatkar93/Core_Gen_Internship/blob/main/Screenshot%202026-03-03%20110245.png)
 
 ![Live Demo](screenshots/chatbot_result.png)
 ------------------------------------------------------------------------
