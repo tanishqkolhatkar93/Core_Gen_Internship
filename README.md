@@ -104,7 +104,7 @@ Place your screenshot inside a folder named `/screenshots` and add:
 
 ![Chatbot](https://github.com/tanishqkolhatkar93/Core_Gen_Internship/blob/main/Screenshot%202026-03-03%20110245.png)
 
-![Live Demo](screenshots/chatbot_result.png)
+![Live Demo](https://github.com/tanishqkolhatkar93/Core_Gen_Internship/blob/main/Demo.mp4)
 ------------------------------------------------------------------------
 
 ## 📂 Project Structure
