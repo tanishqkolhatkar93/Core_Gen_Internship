@@ -102,7 +102,7 @@ Bot: Tanishq, Consistency beats motivation. I hope things get better!
 
 
 
-![Live Demo Link]   - (https://github.com/user-attachments/assets/938bfc20-4123-44f4-9209-cc72156863fb)
+![Live Demo Link]  (https://github.com/user-attachments/assets/938bfc20-4123-44f4-9209-cc72156863fb)
 
 
 ![Chatbot](https://github.com/tanishqkolhatkar93/Core_Gen_Internship/blob/main/Screenshot%202026-03-03%20110245.png)
