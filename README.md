@@ -12,12 +12,12 @@ learning frameworks.
 
 ## 🚀 Features
 
--   ✅ Rule-based Intent Recognition using Regex\
--   ✅ Sentiment Detection using TextBlob\
--   ✅ Conversation Memory (remembers user name & context)\
--   ✅ Multiple Conversation Topics (AI, Study, Weather, Greeting)\
--   ✅ Fallback Responses for unknown inputs\
--   ✅ Interactive GUI using Tkinter\
+-   ✅ Rule-based Intent Recognition using Regex
+-   ✅ Sentiment Detection using TextBlob
+-   ✅ Conversation Memory (remembers user name & context)
+-   ✅ Multiple Conversation Topics (AI, Study, Weather, Greeting)
+-   ✅ Fallback Responses for unknown inputs
+-   ✅ Interactive GUI using Tkinter
 -   ✅ Lightweight & beginner-friendly implementation
 
 ------------------------------------------------------------------------
@@ -101,10 +101,10 @@ Bot: Tanishq, Consistency beats motivation. I hope things get better!
 
 Place your screenshot inside a folder named `/screenshots` and add:
 
-``` markdown
-![Chatbot Screenshot](screenshots/chatbot_result.png)
-```
 
+![Chatbot](screenshots/chatbot_result.png)
+
+![Live Demo](screenshots/chatbot_result.png)
 ------------------------------------------------------------------------
 
 ## 📂 Project Structure
@@ -133,6 +133,8 @@ Place your screenshot inside a folder named `/screenshots` and add:
 
 **Tanishq Kolhatkar**\
 Integrated M.Tech in Artificial Intelligence
+
+Linkedln  -  https://www.linkedin.com/in/tanishq93/
 
 ------------------------------------------------------------------------
 
