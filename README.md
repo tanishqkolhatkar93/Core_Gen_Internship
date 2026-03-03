@@ -8,6 +8,8 @@ This project demonstrates fundamental NLP concepts, context memory
 handling, and GUI-based interaction --- without using heavy machine
 learning frameworks.
 
+# The chatbot uses regex-based keyword matching for intent detection. It applies sentiment analysis using TextBlob polarity scores to adjust responses. A memory dictionary stores user name and previous topic for personalization. The interface is built using Tkinter for a GUI-based interaction.
+
 ------------------------------------------------------------------------
 
 ## 🚀 Features
