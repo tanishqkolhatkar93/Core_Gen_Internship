@@ -45,7 +45,7 @@ pip install opencv-python numpy
 
 ## ▶️ Results
 
-![Chatbot](https://github.com/tanishqkolhatkar93/Core_Gen_Internship/blob/main/Screenshot%202026-03-03%20110245.png)
+![Real Time Object Detection](https://github.com/tanishqkolhatkar93/Core_Gen_Internship/blob/main/Week%202/Screenshot%202026-03-26%20205326.png)
 
 ---
 
