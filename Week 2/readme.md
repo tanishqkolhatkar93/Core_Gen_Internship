@@ -43,7 +43,8 @@ pip install opencv-python numpy
 
 ---
 
-## ▶️ Usage
+## ▶️ Results
+
 python a.py
 
 ---
