@@ -45,7 +45,7 @@ pip install opencv-python numpy
 
 ## ▶️ Results
 
-python a.py
+![Chatbot](https://github.com/tanishqkolhatkar93/Core_Gen_Internship/blob/main/Screenshot%202026-03-03%20110245.png)
 
 ---
 
